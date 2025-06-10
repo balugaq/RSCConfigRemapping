@@ -1,0 +1,2 @@
+python ic.py
+pause
